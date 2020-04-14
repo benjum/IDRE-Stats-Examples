@@ -1,8 +1,8 @@
-Jupyter + R (for RobustRegression): [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/benjum/IDRE-Stats-Examples.git/master?filepath=RobustRegression.ipynb)
+Jupyter + R (for RobustRegression): [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/benjum/IDRE-Stats-Examples/master?filepath=RobustRegression.ipynb)
 
-Jupyter + R (general): [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/benjum/IDRE-Stats-Examples.git/master)
+Jupyter + R (general): [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/benjum/IDRE-Stats-Examples/master)
 
-RStudio: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/benjum/IDRE-Stats-Examples.git/master?urlpath=rstudio)
+RStudio: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/benjum/IDRE-Stats-Examples/master?urlpath=rstudio)
 
 # IDRE Stats Examples
 
